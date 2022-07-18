@@ -1,1 +1,1 @@
-# Fundamentals_of_datasciecnce
+# Fundamentals_of_datascience
